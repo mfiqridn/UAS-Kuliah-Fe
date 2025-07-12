@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { useEffect } from "react";
 import axios from "axios";
-import ENDPOINTS from "../utils/constants/endpoints";
+import ENDPOINTS from "../utils/constants/Endpoints";
 import Card from "../components/Card/Card";
 import styled from "styled-components";
 import CardSituationRegions from "../components/Card/CardSituation";
